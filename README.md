@@ -7,7 +7,7 @@ Develop Electron with coffee + sass + slim (from @tanaka51's presentation)
 
 ## Installation
 
-    $ npm install -g generator-electron
+    $ npm install -g mtsmfm/generator-electron
 
 ## Usage
 
